@@ -6,3 +6,4 @@ Hello
 Hello git
 Hello git rebase
 Hello git cherry-pick
+Hello squash
