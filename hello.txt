@@ -4,3 +4,4 @@ Hello
 Другая
 
 Hello git
+Hello git rebase
